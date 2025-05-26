@@ -55,6 +55,7 @@ local tweak_syntax_keys = {
     "keyword",
     "keyword_return",
     "keyword_exception",
+    "func_def",
     "func_call",
     "var",
 }
