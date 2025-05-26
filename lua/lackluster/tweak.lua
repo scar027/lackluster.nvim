@@ -58,6 +58,7 @@ local tweak_syntax_keys = {
     "func_def",
     "func_call",
     "var",
+    "punctuation",
 }
 
 ---modify the theme based on setup's config.tweak_syntax
